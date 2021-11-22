@@ -7,7 +7,7 @@ This is a project that uses [Microsoft's Detours](https://github.com/microsoft/d
 After you clone this repository, initialize the Detours submodule like this:
 
 ```
-git submodule udpdate --init --recursive
+git submodule update --init --recursive
 ```
 
 Follow the steps in the next section and after that, you will have a solution file (`*.sln`) that you can open with Visual Studio.
